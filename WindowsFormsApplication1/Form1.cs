@@ -26,7 +26,6 @@ namespace WindowsFormsApplication1
             END,
         }
 
-        //コンストラクタ
         public Form1()
         {
             InitializeComponent();
